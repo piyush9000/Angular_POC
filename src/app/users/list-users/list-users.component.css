@@ -1,0 +1,17 @@
+
+.action-link{
+    padding: 10px;
+}
+.list-users{
+    margin: 10px;
+}
+.username{
+    width: 300px;
+}
+.mat-elevation-z8 {
+    width: 95%;
+    margin-left: 10px;
+  }
+  .filter{
+    margin-left: 15px;
+  }

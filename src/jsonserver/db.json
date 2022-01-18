@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Piyush Singh",
+      "username": "Piyush9220",
+      "email": "Piyush101@gmail.com",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Indore",
+      "phone": "7263933354"
+    },
+    {
+      "id": 4,
+      "name": "Himanshu Sachan",
+      "username": "Himanshu334",
+      "email": "Himanshu@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bhopal",
+      "phone": "7649533109"
+    },
+    {
+      "id": 5,
+      "name": "Pankaj Prasad",
+      "username": "Pankaj678",
+      "email": "Pankaj@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Banglore",
+      "phone": "7649553109"
+    },
+    {
+      "id": 6,
+      "name": "Pooja Dubey",
+      "username": "Pooja778",
+      "email": "Pooja@dana.io",
+      "street": "Dayna",
+      "suite": "Suite 449",
+      "city": "Indore",
+      "phone": "7649563109"
+    },
+    {
+      "id": 7,
+      "name": "Prakash Sharma",
+      "username": "Prakash567",
+      "email": "Prakash@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "New Delhi",
+      "phone": "7649533109"
+    },
+    {
+      "id": 8,
+      "name": "Avinash Shinde",
+      "username": "Avinash456",
+      "email": "Avinash@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Noida",
+      "phone": "7649523109"
+    },
+    {
+      "id": 9,
+      "name": "Vishnu Pandey",
+      "username": "Vishnu145",
+      "email": "Vishnu@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Chandigarh",
+      "phone": "7649513109"
+    },
+    {
+      "id": 10,
+      "name": "Rishi Singh",
+      "username": "Delphine",
+      "email": "Rishi@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Gurugram",
+      "phone": "7649593109"
+    },
+    {
+      "name": "Rihaan Ahmed",
+      "email": "Rihaan@gmai.com",
+      "phone": "8982677233",
+      "username": "Rihaan897",
+      "city": "Indore",
+      "id": 11
+    }
+  ]
+}

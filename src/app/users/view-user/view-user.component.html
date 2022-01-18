@@ -1,0 +1,21 @@
+
+  <mat-card class="example-card" *ngIf="userDetails" class="userdetails">
+    <mat-card-title-group>
+      <mat-card-title>
+        {{userDetails.name}}
+      </mat-card-title>
+      <mat-card-subtitle>
+          UserName:{{userDetails.username}}
+      </mat-card-subtitle>
+      <mat-card-subtitle>
+        Email:{{userDetails.email}}
+    </mat-card-subtitle>
+    <mat-card-subtitle>
+        City:{{userDetails.city}}
+    </mat-card-subtitle>
+    <mat-card-subtitle>
+      Phone:{{userDetails.phone}}
+    </mat-card-subtitle> 
+      <img mat-card-md-image src="https://picsum.photos/201" >
+    </mat-card-title-group>
+  </mat-card>
